@@ -1,2 +1,7 @@
 *.cpp linguist-language=c++
 .h    linguist-language=c++
+*.ddp linguist-language=c++
+.h    linguist-language=c++
+
+*.dfm linguist-language=c++
+.h    linguist-language=c++
